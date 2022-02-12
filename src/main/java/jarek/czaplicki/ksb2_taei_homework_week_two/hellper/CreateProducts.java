@@ -1,4 +1,4 @@
-package jarek.czaplicki.ksb2_taei_homework_week_two.Hellper;
+package jarek.czaplicki.ksb2_taei_homework_week_two.hellper;
 
 import jarek.czaplicki.ksb2_taei_homework_week_two.model.Product;
 import org.springframework.stereotype.Component;

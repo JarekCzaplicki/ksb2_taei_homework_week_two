@@ -1,6 +1,6 @@
 package jarek.czaplicki.ksb2_taei_homework_week_two.service.impl;
 
-import jarek.czaplicki.ksb2_taei_homework_week_two.Hellper.CreateProducts;
+import jarek.czaplicki.ksb2_taei_homework_week_two.hellper.CreateProducts;
 import jarek.czaplicki.ksb2_taei_homework_week_two.model.Product;
 import jarek.czaplicki.ksb2_taei_homework_week_two.service.interfaces.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,8 @@
 package jarek.czaplicki.ksb2_taei_homework_week_two.hellper;
 
 import jarek.czaplicki.ksb2_taei_homework_week_two.model.Product;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.support.ReloadableResourceBundleMessageSource;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
